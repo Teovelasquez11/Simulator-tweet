@@ -1,0 +1,19 @@
+.form-send-tweet{
+    background-color: aliceblue;
+    border: 2px solid #00acee;
+    padding: 20px;
+    width:600px;
+}
+.form-send-tweet__title{
+    margin:0 !important;
+}
+
+.MuiFormControl-root{
+        width:100%;
+ }
+ .form-send-tweet__form-name{
+     width: 50%;
+ }
+ .form-send-tweet-textarea{
+     width: 100%;
+ }
